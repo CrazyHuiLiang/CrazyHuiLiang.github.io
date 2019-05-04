@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>编程小记</title>
-  
+  <icon>https://www.gravatar.com/avatar/208c3e903a28ee32a6bd45585b847e2b</icon>
   <subtitle>记录所看所学，不断沉淀</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>CrazyHuiLiang</name>
-    
+    <email>crazyhuiliang@163.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
